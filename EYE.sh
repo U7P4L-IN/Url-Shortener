@@ -3,7 +3,7 @@ pkg install figlet -y
 pkg install ruby -y
 gem install lolcat
 pkg install cowsay -y
-xdg-open https://github.com/ANONYMOUS-U7P4L
+xdg-open https://github.com/U7P4L-IN
 #colour code
 r='\e[1;31m'
 g='\e[1;32m'
