@@ -1,4 +1,4 @@
-##-------------------INFO------------------##
+#####-------------------INFO------------------##
 #ENCRYPTED BY : U7P4L IN
 # VERSION : 0.3
 # OWNER OF ANONYMOUS CYBER
