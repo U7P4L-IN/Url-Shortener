@@ -10,6 +10,7 @@
  <p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
  
 > [!INFORMATION]
+> 
 > A URL shortener is a tool that takes a long and unwieldy URL (Uniform Resource Locator) and converts it into a shorter, more concise version. The shortened URL redirects to the original, longer URL when accessed
 
 ### Tested On :
