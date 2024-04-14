@@ -43,15 +43,18 @@ And some other python packages
 apt update && apt upgrade -y
 pkg install git
 pkg install python
-pip install requests
 rm -rf Url-Shortener
 git clone --depth=1 https://github.com/U7P4L-IN/Url-Shortener.git
 cd Url-Shortener
 chmod +x *
 python3 ushort.py
 ```
+<p align="center"><img src="./image/carbon.png">
+
 <h5 align="center"><b>TERMUX > </b></h5>
-<p align="center"><img src="./image/demo3.jpg">
+
+<p align="center"><img src="./image/demo1.jpg">
+<p align="center"><img src="./image/demo2.png">
 
 ### Kali Linux / Ubuntu / Parrot OS :
 ```python
@@ -63,8 +66,8 @@ sudo python3 ushort.py
 ```
 
 <h5 align="center"><b>KALI LINUX > </b></h5>
-<p align="center"><img src="./image/demo1.png">
-<p align="center"><img src="./image/demo2.png">
+<p align="center"><img src="./image/demo3.png">
+<p align="center"><img src="./image/demo4.png">
 
 
 <h2 align="center">LICENSE</h2>
@@ -85,9 +88,9 @@ If you notice issues while installing this tool or running this tool kindly mail
 <br>
 <h3 align="LEFT"><b>LANGUAGE > </b></h3>
 
-<a href="https://github.com/U7P4L-IN/Url-Shortener.git">
-  <img align="center"style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/pin/?username=U7P4L-IN&repo=Url-Shortener&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=Url-Shortener&title_colour=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
+</p>
 
 <h3 align="center"><b>DESCRIPTION</b></h3>
 
